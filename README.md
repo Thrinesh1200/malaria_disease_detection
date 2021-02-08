@@ -7,3 +7,4 @@ The dataset consists of two categories
 * uninfected
 #### transfer learning (vgg19) is used for prediction
 Additionally **ImageDataGenerator** is used for **data agumentation**
+**softmax** is used as **activation function**
