@@ -6,3 +6,4 @@ The dataset consists of two categories
 * parasitized
 * uninfected
 #### transfer learning (vgg19) is used for prediction
+Additionally **ImageDataGenerator** is used for **data agumentation**
